@@ -12,6 +12,7 @@ I enjoy unravelling insightful stories hidden in large datasets and make data-ba
 - ![R](https://img.shields.io/badge/R-blue?logo=R&logoColor=white)
 - ![C](https://img.shields.io/badge/C-blue?logo=c%2B%2B&logoColor=white)
 - ![Java](https://img.shields.io/badge/Java-blue?logo=java&logoColor=white)
+- ![SAS](https://img.shields.io/badge/SAS-blue?logo=java&logoColor=white)
 
 - ### Database
 - ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)
@@ -21,7 +22,6 @@ I enjoy unravelling insightful stories hidden in large datasets and make data-ba
 - ![Pandas](https://img.shields.io/badge/Pandas-blue?logo=pandas&logoColor=white)
 - ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-blue?logo=scikit-learn&logoColor=white)
 - ![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?logo=python&logoColor=white)
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-blue?logo=tensorflow&logoColor=white)
 - ![Excel](https://img.shields.io/badge/Excel-blue?logo=microsoft-excel&logoColor=white)
 
 ## GitHub Stats
