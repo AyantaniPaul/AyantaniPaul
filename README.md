@@ -2,8 +2,8 @@
 
 ## About Me
 
-I'm a Post graduate Statistics and Computing student with a keen interest and love for statistics, mathematics and machine learning.
-I enjoy unravelling insightful stories hidden in large datasets and make data-backed models through various statistical tools.
+I'm a Post graduate in Statistics and Computing student with a keen interest and love for statistics, mathematics and machine learning.
+I enjoy unravelling insightful stories hidden in large datasets and make data-backed models through various statistical tools. Currently working at Complete HEOR Solutions (CHEORS) contributing to the Real World Evidence Team.
 
 ## Technical Skills
 
